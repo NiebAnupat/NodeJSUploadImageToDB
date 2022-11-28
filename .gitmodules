@@ -1,0 +1,8 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/NiebAnupat/NodeJSUploadImageToDB-BN.git
+	branch = master
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/NiebAnupat/NodeJSUploadImageToDB-FN.git
+	branch = master
